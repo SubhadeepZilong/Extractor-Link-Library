@@ -6,11 +6,11 @@ The aim is to provide a go to place where you can directly know and visit the ap
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-| Extension | Github | Link |
+| Github | Website | Extension |
 | :--: | :-- | --: |
-| .rpgmvp | https://github.com/Petschko/RPG-Maker-MV-Decrypter | [Website](https://petschko.org/tools/mv_decrypter/) |
-| .png_ | https://github.com/Petschko/RPG-Maker-MV-Decrypter | [Website](https://petschko.org/tools/mv_decrypter/) |
-| .ypf | https://github.com/morkt/GARbro |  |
+| https://github.com/Petschko/RPG-Maker-MV-Decrypter | [Link](https://petschko.org/tools/mv_decrypter/) | .rpgmvp , .png_ |
+| https://github.com/morkt/GARbro |  | .ypf |
+| | [Link](https://www.7-zip.org/) | .7z , .xz , .bzip2 , .gzip , tar , zip , .wim , .ar , .arj , .cab , .chm , .cpio , .cramfs , .dmg , .ext , .fat , .gpt , .hfs , .ihex , .iso , .lzma , .mbr , .msi , .nsis , .ntfs , .nqcow2 , .rar , .rpm , .squashfs , .udf , .uefi , .vdi , .vhd , .vhdx , .vmdk , .xar , .z |
 
 
 
